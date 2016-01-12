@@ -7,7 +7,7 @@ with Actions;
 with Sounds;
 
 -- need to add "last chance handler" 
--- http://www.adacore.com/adaanswers/gems/gem-112-lego-mindstorms-ada-environment-part-1/
+-- http://www.adacore.com/adaanswers/gems/gem-112-lego-mindstorms-ada-environment-part-1/ and part 2
 
 procedure Shutdown is
 begin
